@@ -60,7 +60,7 @@ func Sqrt(x float64) float64 {
 }
 ```
 
-- `ccall/ccall.g`
+- `ccall/ccall.c`
 
 define `double callSqrt(double)` and call `sqrt`
 
