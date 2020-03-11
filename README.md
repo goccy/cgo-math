@@ -1,5 +1,5 @@
 # cgo-math
-Generate libm bridge for cgo
+Generate libm bridge for resolving undefined symbol in cgo
 
 # Example
 
